@@ -1,0 +1,3 @@
+Document3, Document2 Similarity: .94	
+Document3, Document1 Similarity: .01	
+Document2, Document1 Similarity: .01	
